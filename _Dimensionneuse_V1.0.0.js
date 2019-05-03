@@ -96,6 +96,8 @@ function auto() {
               pin: "A0"
           });
 
+    
+          //THESE ARE THE X Y Z DIMENSIONS OF THE ANALYSIS SURFACE, SET IT UP WITH YOUR OWN DIMENSIONS   
           var X = 248.1; //cm
           var Y = 123.3; //cm
           var Z = 28.6; //cm
